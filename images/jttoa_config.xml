@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<properties>config.properties</properties>
+	<tables>
+		<table>
+			<!-- 表名 -->
+			<tableName>T_PORTLET_TODO_NUMBER_INFO</tableName>
+			<tableDesc>待办数字信息</tableDesc>
+			<!-- JAVA对象名 -->
+			<objectName>TodoNumberInfo</objectName>
+			<!-- 用于设置controller注解的requestMapping -->
+			<requestMapping>todoNumberInfo</requestMapping>
+			<!-- 用于web和service中是否存在上一级目录 -->
+			<parentPackge>todoNumberInfo</parentPackge>
+			<!-- 作者 -->
+			<author>yurh</author>
+		</table>
+	</tables>
+</menu>
